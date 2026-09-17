@@ -1,5 +1,5 @@
 # EXp_03_-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
-
+## REG NO : 212223040099
 ## AIM:
 To develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate).
 
@@ -165,3 +165,14 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
+
+### Output:
+
+<img width="762" height="342" alt="Screenshot 2026-09-17 194240" src="https://github.com/user-attachments/assets/4485d3e5-3289-404d-98de-ba358b6acb5d" />
+
+<img width="757" height="342" alt="Screenshot 2026-09-17 194529" src="https://github.com/user-attachments/assets/34ae144b-5c2d-4292-bd85-136044d6cbf2" />
+
+
+<img width="762" height="342" alt="Screenshot 2026-09-17 194956" src="https://github.com/user-attachments/assets/50fc122d-fd81-4fa5-a8bf-de65a91ccf9e" />
+<img width="1010" height="446" alt="Screenshot 2026-09-17 194738" src="https://github.com/user-attachments/assets/f44fdc00-d142-498e-9b15-b64194cb0efb" />
+
